@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0643\u0628\u064A\u0631\u0629\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0628\u0648\u0647\u0627\u062F\u0647\u0648\u062F\\Project\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|f:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0643\u0628\u064A\u0631\u0629\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0628\u0648\u0647\u0627\u062F\u0647\u0648\u062F\\project\\dvld\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|f:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0643\u0628\u064A\u0631\u0629\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0628\u0648\u0647\u0627\u062F\u0647\u0648\u062F\\project\\dvld_buisness\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|f:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0643\u0628\u064A\u0631\u0629\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0628\u0648\u0647\u0627\u062F\u0647\u0648\u062F\\project\\dvld\\user\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A65E342-BF9D-4ABF-856F-3F4F7F7D3CE5}|DVLD.csproj|solutionrelative:user\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A8427B-DCFC-4DAF-A14C-E3F4789A993D}|..\\DVLD_Buisness\\DVLD_Buisness.csproj|f:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0643\u0628\u064A\u0631\u0629\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0628\u0648\u0647\u0627\u062F\u0647\u0648\u062F\\project\\dvld_buisness\\clsdatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "F:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0643\u0628\u064A\u0631\u0629\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0628\u0648\u0647\u0627\u062F\u0647\u0648\u062F\\Project\\DVLD\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Login\\frmLogin.cs",
+              "ToolTip": "F:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0643\u0628\u064A\u0631\u0629\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0628\u0648\u0647\u0627\u062F\u0647\u0648\u062F\\Project\\DVLD\\Login\\frmLogin.cs",
+              "RelativeToolTip": "Login\\frmLogin.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwB4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:47:29.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "F:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0643\u0628\u064A\u0631\u0629\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0628\u0648\u0647\u0627\u062F\u0647\u0648\u062F\\Project\\DVLD_Buisness\\clsUser.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsUser.cs",
+              "ToolTip": "F:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0643\u0628\u064A\u0631\u0629\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0628\u0648\u0647\u0627\u062F\u0647\u0648\u062F\\Project\\DVLD_Buisness\\clsUser.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsUser.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAwDYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:37:44.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmChangePassword.cs",
+              "DocumentMoniker": "F:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0643\u0628\u064A\u0631\u0629\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0628\u0648\u0647\u0627\u062F\u0647\u0648\u062F\\Project\\DVLD\\User\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "User\\frmChangePassword.cs",
+              "ToolTip": "F:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0643\u0628\u064A\u0631\u0629\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0628\u0648\u0647\u0627\u062F\u0647\u0648\u062F\\Project\\DVLD\\User\\frmChangePassword.cs",
+              "RelativeToolTip": "User\\frmChangePassword.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAqwEQAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:31:35.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsDataHelper.cs",
+              "DocumentMoniker": "F:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0643\u0628\u064A\u0631\u0629\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0628\u0648\u0647\u0627\u062F\u0647\u0648\u062F\\Project\\DVLD_Buisness\\clsDataHelper.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Buisness\\clsDataHelper.cs",
+              "ToolTip": "F:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u0643\u0628\u064A\u0631\u0629\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0628\u0648\u0647\u0627\u062F\u0647\u0648\u062F\\Project\\DVLD_Buisness\\clsDataHelper.cs",
+              "RelativeToolTip": "..\\DVLD_Buisness\\clsDataHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:19:13.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 17,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
